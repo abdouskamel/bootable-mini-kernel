@@ -1,1 +1,1 @@
-# Bootable Mini Kernel
+# Bootable Mini Kernel From Scratch
