@@ -1,0 +1,5 @@
+build/bochsout.txt
+build/boot
+build/floppyA
+build/kernel
+build/kernel.elf
